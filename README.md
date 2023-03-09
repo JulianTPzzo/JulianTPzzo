@@ -5,7 +5,10 @@
 
 - 🌱 Estoy aprendiendo **Reactjs, Tailwind y Firebase**
 
+- 🔍 Estoy en busca de un empleo donde aprender mucho 
+
 - 📫 Puedes contactarme por **jtrabazzo@hotmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
