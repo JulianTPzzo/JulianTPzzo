@@ -9,7 +9,7 @@
 
 <h3 align="left">📫 Puedes contactarme por:</h3>
 <p align="left">
-<a href="https://juliantp.website" target="blank"><img align="center" src="https://juliantp.website/wp-content/uploads/2023/03/Logo.png" alt="julian-trabazzo" alt="julian-trabazzo" height="30" width="40" /></a>
+<a href="https://juliantp.website" target="blank"><img align="center" src="https://juliantp.website/wp-content/uploads/2023/03/Logo.png" alt="julian-trabazzo" alt="julian-trabazzo" height="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
