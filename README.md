@@ -7,7 +7,7 @@
 
 - 🔍 Estoy en busca de un empleo donde aprender mucho 
 
-- 📫 Puedes contactarme por **juliantp.website**
+- 📫 Puedes contactarme por <a href="juliantp.website" target="blank"><img align="center" src="https://juliantp.website/wp-content/uploads/2023/03/Logo.png" alt="julian-trabazzo" height="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
