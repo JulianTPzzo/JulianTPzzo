@@ -7,7 +7,7 @@
 
 - 🔍 Estoy en busca de un empleo donde aprender mucho 
 
-- 📫 Puedes contactarme por **jtrabazzo@hotmail.com**
+- 📫 Puedes contactarme por **juliantp.website**
 
 
 <h3 align="left">Connect with me:</h3>
