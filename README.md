@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en un proyecto propio **Evennto**
 
-- 🌱 Desarrollando en **Reactjs, Tailwind y Firebase**
+- 🌱 Desarrollando con **Reactjs, NodeJS, Tailwind y MongoDB**
 
 - 🔍 Estoy en busca de un empleo donde aprender mucho 
 
