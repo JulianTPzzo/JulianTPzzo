@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Soy Julian Trabazzo</h1>
 <h3 align="center">Soy Desarrollador Front-End y Diseñador UX/UI</h3>
 
-- 🔭 Actualmente trabajando en un proyecto propio **Evennto**
+- 🔭 Actualmente trabajando en el frontend de la empresa **GyS** y en proyectos personales como **Evennto** y **Dolment**
 
 - 🌱 Desarrollando con **Reactjs, NodeJS, Tailwind y MongoDB**
 
