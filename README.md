@@ -5,7 +5,7 @@
 
 - 🌱 Desarrollando con **Reactjs, NodeJS, Tailwind y MongoDB**
 
-- 🔍 Estoy en busca de un empleo donde aprender mucho 
+- 🔍 Siempre en busca de aprender mucho más 
 
 <h3 align="left">📫 Puedes contactarme por:</h3>
 <p align="left">
