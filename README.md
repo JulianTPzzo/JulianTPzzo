@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true" alt="GitHub Activity"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliantpzzo&hide_progress=true" alt="Top Langs"/>
 </p>
 
 <h1 align="center">Hola! Soy Julian Trabazzo</h1>
