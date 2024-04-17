@@ -10,7 +10,7 @@
 <h3 align="left">📫 You can contact me via:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.behance.net/julianzzoimg alt="LinkedIn" src="https://img.shields.io/badge/Behance-JTP%20Dev-ligthblue?style=flat-square&logo=behance"></a>
+<a href="https://www.behance.net/julianzzoimg alt="LinkedIn" src="https://img.shields.io/badge/Behance-JTP%20Dev-blue?style=flat-square&logo=behance"></a>
 <a href="https://www.behance.net/julianzzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="julianzzo" height="30" width="40" /></a>
 </p>
 
