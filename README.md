@@ -9,10 +9,10 @@
 
 <h3 align="left">📫 You can contact me via:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
+ <a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools:</h3>
 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
@@ -49,6 +49,5 @@
 
 <h3 align="left">📫 Puedes contactarme por:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julian-trabazzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-trabazzo" height="30" width="40" /></a>
-<a href="https://www.behance.net/julianzzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="julianzzo" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
 </p>
