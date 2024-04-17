@@ -25,7 +25,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=for-the-badge&logo=sequelize)
+  ![Electron](https://img.shields.io/badge/-Electron-333333?style=for-the-badge&logo=electron)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=MongoDB)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=for-the-badge&logo=tailwindcss)
 
