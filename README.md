@@ -10,8 +10,6 @@
 <h3 align="left">📫 You can contact me via:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.behance.net/julianzzo/"> <img alt="LinkedIn" src="https://img.shields.io/badge/Behance-JTP%20Dev-blue?style=flat-square&logo=behance"></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
