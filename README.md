@@ -35,11 +35,16 @@
 </p>
 
 <div>
- [![Evennto app](https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited)](https://github.com/JulianTPzzo/EvenntoAppLimited)
- [![Sistema de Gestión de libre uso](https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion)](https://github.com/JulianTPzzo/Dolment-Sistema-Gestion)
+  <a href='https://github.com/JulianTPzzo/EvenntoAppLimited' align="left">
+   <h2>Evennto app</h2>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Evennto app"/>
+  </a>
+  
+  <a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion' align="right">
+    <h2>Sistema de Gestión de libre uso</h2>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Sistema de Gestión de libre uso"/>
+  </a>
 </div>
-
-
 
 <h1 align="center">Hola! Soy Julian Trabazzo</h1>
 <h3 align="center">Soy Desarrollador Front-End y Diseñador UX/UI</h3>
