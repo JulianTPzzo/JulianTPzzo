@@ -35,15 +35,8 @@
 </p>
 
 <div>
-  <a href='https://github.com/JulianTPzzo/EvenntoAppLimited' align="left">
-   <h2>Evennto app</h2>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Top Langs"/>
-  </a>
-  
-  <a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion' align="right">
-    <h2>Sistema de Géstion de libre uso</h2>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Top Langs"/>
-  </a>
+ [![Evennto app](https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited)](https://github.com/JulianTPzzo/EvenntoAppLimited)
+ [![Sistema de Gestión de libre uso](https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion)](https://github.com/JulianTPzzo/Dolment-Sistema-Gestion)
 </div>
 
 
