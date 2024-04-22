@@ -33,14 +33,18 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliantpzzo&hide_progress=true" alt="Top Langs"/>
 </p>
-<h2>Evennto app</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Top Langs"/>
-</p>
-<h2>Sistema de Géstion de libre uso</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Top Langs"/>
-</p>
+
+<div>
+  <p align="left">
+   <h2>Evennto app</h2>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Top Langs"/>
+  </p>
+  <h2>Sistema de Géstion de libre uso</h2>
+  <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Top Langs"/>
+  </p>
+</div>
+
 
 
 <h1 align="center">Hola! Soy Julian Trabazzo</h1>
