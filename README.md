@@ -36,13 +36,17 @@
 
 <div>
   <a href='https://github.com/JulianTPzzo/EvenntoAppLimited' align="left">
-   <h2>Evennto app</h2>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Evennto app"/>
+    <h2>Evennto app</h2>
+    <a href='https://github.com/JulianTPzzo/EvenntoAppLimited'>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Evennto app"/>
+    </a>
   </a>
   
   <a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion' align="right">
     <h2>Sistema de Gestión de libre uso</h2>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Sistema de Gestión de libre uso"/>
+    <a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion'>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Sistema de Gestión de libre uso"/>
+    </a>
   </a>
 </div>
 
