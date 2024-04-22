@@ -39,8 +39,9 @@
    <h2>Evennto app</h2>
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Top Langs"/>
   </p>
-  <h2>Sistema de Géstion de libre uso</h2>
+  
   <p align="right">
+    <h2>Sistema de Géstion de libre uso</h2>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Top Langs"/>
   </p>
 </div>
