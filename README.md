@@ -43,7 +43,7 @@
   <a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion' align="right">
     <h2>Sistema de Géstion de libre uso</h2>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Top Langs"/>
-  </q>
+  </a>
 </div>
 
 
