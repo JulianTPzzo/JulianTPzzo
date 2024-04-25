@@ -10,13 +10,12 @@
 <h3 align="left">📫 You can contact me via:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
- <hr/>
  <a href="https://drive.google.com/file/d/1jmQOeVBntTAi047uTf--4ycksa2tEyuF/view?usp=sharing"><img alt="LinkedIn" src="https://img.shields.io/badge/Download%20CV-yellow?style=flat-square"></a>
 </p>
 
 <h3 align="left">🔧 Languages and Tools:</h3>
 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=SASS&logoColor=CE6B9E)
