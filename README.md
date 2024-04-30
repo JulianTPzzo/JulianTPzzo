@@ -10,7 +10,7 @@
 <h3 align="left">📫 You can contact me via:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://drive.google.com/file/d/1fvlkXT-PBiMIaCCaJs0EbC_pMsRtPrMR/view?usp=sharing"><img alt="LinkedIn" src="https://img.shields.io/badge/Download%20CV%20English-yellow?style=flat-square"></a>
+ <a href="https://drive.google.com/file/d/1fvlkXT-PBiMIaCCaJs0EbC_pMsRtPrMR/view?usp=sharing"><img alt="LinkedIn" src="https://img.shields.io/badge/Download%20CV-English-yellow?style=flat-square"></a>
 </p>
 
 <h3 align="left">🔧 Languages and Tools:</h3>
@@ -63,5 +63,5 @@
 <h3 align="left">📫 Puedes contactarme por:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/julian-trabazzo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JTP%20Dev-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://drive.google.com/drive/folders/1FetYLxj75X1ISiL6G3TOa9acENytU5Hr?usp=drive_link"><img alt="LinkedIn" src="https://img.shields.io/badge/Descargar%20CV%20Español-yellow?style=flat-square"></a>
+ <a href="https://drive.google.com/drive/folders/1FetYLxj75X1ISiL6G3TOa9acENytU5Hr?usp=drive_link"><img alt="LinkedIn" src="https://img.shields.io/badge/Descargar%20CV-Español-yellow?style=flat-square"></a>
 </p>
