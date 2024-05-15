@@ -36,28 +36,24 @@
 </p>
 
 <div>
-  <a href='https://github.com/JulianTPzzo/EvenntoAppLimited' align="left">
-    <h2>Evennto app</h2>
-    <a href='https://github.com/JulianTPzzo/EvenntoAppLimited'>
+  <h2 align="center">Proyectos</h2>
+ 
+ <h3>Evennto app</h3>
+  <a href='https://github.com/JulianTPzzo/EvenntoAppLimited'>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=EvenntoAppLimited" alt="Evennto app"/>
-    </a>
   </a>
   
-  <a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion' align="right">
-    <h2>Sistema de Gestión de libre uso</h2>
+  <h3>Sistema de Gestión de libre uso</h3>
     <a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion'>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Dolment-Sistema-Gestion" alt="Sistema de Gestión de libre uso"/>
-    </a>
   </a>
 </div>
 
 <h2 align="center">Guías | Tutoriales</h2>
-<a href='https://github.com/JulianTPzzo/Dolment-Sistema-Gestion' align="right">
-   <h2>Inicializar proyecto con Electron, React y Tailwind</h2>
-   <a href='https://github.com/JulianTPzzo/Guia-Electron-React-Tailwind'>
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Guia-Electron-React-Tailwind" alt="Inicializar proyecto con Electron, React y Tailwind"/>
-   </a>
-</a>
+ <h3>Inicializar proyecto con Electron, React y Tailwind</h3>
+ <a href='https://github.com/JulianTPzzo/Guia-Electron-React-Tailwind'>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliantpzzo&repo=Guia-Electron-React-Tailwind" alt="Inicializar proyecto con Electron, React y Tailwind"/>
+ </a>
 
 <h1 align="center">Hola! Soy Julian Trabazzo</h1>
 <h3 align="center">Soy Desarrollador Front-End y Diseñador UX/UI</h3>
