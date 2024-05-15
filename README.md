@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Julian Trabazzo</h1>
-<h3 align="center">I'm a Front-End Developer and UX/UI Designer</h3>
+<h3 align="center">I'm a Web Developer and UX/UI Designer</h3>
 
 - 🔭 Currently working on the frontend at **GyS** and on personal projects like **Evennto** and **Dolment**
 
@@ -56,7 +56,7 @@
  </a>
 
 <h1 align="center">Hola! Soy Julian Trabazzo</h1>
-<h3 align="center">Soy Desarrollador Front-End y Diseñador UX/UI</h3>
+<h3 align="center">Soy Desarrollador Web y Diseñador UX/UI</h3>
 
 - 🔭 Actualmente trabajando en el frontend de la empresa **GyS** y en proyectos personales como **Evennto** y **Dolment**
 
